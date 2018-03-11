@@ -3,7 +3,7 @@
 
 Summary:	Caja extension for customizing the context menu
 Name:		caja-actions
-Version:	1.8.2
+Version:	1.8.3
 Release:	1
 Group:		Graphical desktop/Other
 License:	GPLv2+ and LGPLv2+
